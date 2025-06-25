@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine(Print("test1"));
+
+            //No need to make one more line of code!
         }
 
         public static string Print(string text)
