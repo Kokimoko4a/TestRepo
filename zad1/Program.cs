@@ -6,7 +6,10 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine(Print("test1"));
-            Console.WriteLine("Again testing merging!");
+
+
+
+            //No need to make one more line of code!
         }
 
         public static string Print(string text)
